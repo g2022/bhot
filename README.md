@@ -36,9 +36,9 @@ $ python2 bhot.py
 <br/>
 ...
 <br/>
-• TOOL USER : (knock me on facebook)
+• TOOL USER : tandabotol
 <br/>
-• TOOL PASS : (knock me on facebook)
+• TOOL PASS : gorombotol
 <br/>
 ....
 <br/>
